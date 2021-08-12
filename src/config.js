@@ -2,6 +2,6 @@ let config = {}
 
 config.dynamo = {}
 
-config.dynamo.tableName = "facesV3"
+config.dynamo.tableName = "trash_classification"
 
 module.exports = config
